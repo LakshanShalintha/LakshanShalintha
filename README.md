@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Flutter**
 - ⚡ Fun fact **i'm free**
 
-&nbsp&nbsp<div align= "center">
+<div align= "center">
   <a href="https://github.com/LakshanShalintha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/Lakshan Shalintha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:lakshanshalintha2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -19,13 +19,13 @@
   <a href="https://twitter.com/Lakshan Shalintha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=YOUR_PHONE_NUMBER" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
-&nbsp&nbsp&nbsp
 
-</div  align= "center"><h3 align="center">Connect with me:</h3>&nbsp
+
+</div  align= "center"><h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/Lakshan Shalintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Lakshan Shalintha" height="30" width="40" /></a><a href="https://linkedin.com/in/Lakshan Shalintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Lakshan Shalintha" height="30" width="40" /></a><a href="https://fb.com/Lakshan Shalintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Lakshan Shalintha" height="30" width="40" /></a><a href="https://www.hackerrank.com/Lakshan Shalintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="Lakshan Shalintha" height="30" width="40" /></a><a href="https://discord.gg/Lakshan Shalintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="Lakshan Shalintha" height="30" width="40" /></a><a href="https://stackoverflow.com/users/Lakshan Shalintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="Lakshan Shalintha" height="30" width="40" /></a></p>&nbsp&nbsp&nbsp
 
-<h3 align="center">Languages and Tools:</h3>&nbsp
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
