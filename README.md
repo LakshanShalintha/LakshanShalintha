@@ -68,8 +68,7 @@
 </p>&nbsp&nbsp&nbsp
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshanShalintha&langs_count=4&layout=compact&theme=dark" alt="LakshanShalintha" />
-
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshanShalintha&langs_count=8&layout=compact&theme=dark&exclude=html,css,javascript,scss,sass" alt="LakshanShalintha" />
 
 <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LakshanShalintha&show_icons=true&locale=en&theme=dark" alt="LakshanShalintha" /></p>
 
