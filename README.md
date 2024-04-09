@@ -7,10 +7,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LakshanShalintha&theme=onedark" alt="LakshanShalintha" /></a> </p>
 
+  <table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🔭 I’m currently working on **AudiRAB**
+- 🧑‍🎓 I’m an Undergraduate at **SUSL**
 - 👯 I’m looking to collaborate on **AudiRAB**
 - 🌱 I’m currently learning **Flutter**
 - ⚡ Fun fact **i'm free**
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  
+  </td>
+</tr>
+</table>
 
 <div align= "center">
   <a href="https://github.com/LakshanShalintha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
