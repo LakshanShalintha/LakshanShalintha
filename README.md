@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LakshanShalintha&theme=onedark" alt="LakshanShalintha" /></a> </p>
 
+<br><br>
   <table align="center">
 <tr border="none">
 <td width="50%" align="left">
